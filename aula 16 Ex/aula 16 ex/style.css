@@ -1,0 +1,41 @@
+
+h1{
+    text-align: center;
+    background: blue;
+    color: white;
+    padding: 15px;
+    box-shadow: 3px 3px 10px black;
+    
+}
+body{
+    background: rgb(83, 83, 187);
+    font: normal 15pt arial;
+    color: white;
+
+}
+
+header{
+    color: white;
+    text-align: center;
+    color: white;
+
+}
+
+section{
+    text-align: center;
+    background-color: rgba(37, 37, 216, 0.466);
+    color: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px black;
+
+
+}
+
+footer{
+    text-align: center;
+    padding: 15px;
+
+}
